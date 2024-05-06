@@ -1,4 +1,4 @@
-// Exercício 5
+// Exercício - 5
 // Escreva um loop for que itera sobre um array de números e imprime o quadrado de cada número.
 
 let numbers = [1, 2, 3, 4, 5];

@@ -1,4 +1,4 @@
-//Exercício 7
+//Exercício - 7
 // Escreva um programa que receba um número inteiro representando a operação a ser realizada:
 
 // 1: Adicionar um elemento no final do array. // 2: Remover o último elemento do array. // 3: Remover o primeiro elemento do array.

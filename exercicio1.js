@@ -1,4 +1,4 @@
-// Exercício 1
+// Exercício - 1
 // Escreva um loop while que imprima os números de 1 a 5.
 
 let i = 1;
